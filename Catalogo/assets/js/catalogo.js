@@ -33,7 +33,7 @@ class Catalogo {
 
     addBoxes() {
        
-        fetch("https://mocki.io/v1/aba3cbae-ba9e-464b-82c9-96ab3a594c87")
+        fetch("https://mocki.io/v1/aba3cbae-ba9e-464b-82c9-96ab3a594c87") // Cargué mi JSON en una Fake API que cree en mocki.io
             .then((response) => response.json())
             .then((data) => {
                 for (const product of data) {
