@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "nombre": "Air Jordan 1 Retro High OG Smoke Grey",
+        "precio": 700,
+        "stock": 5,
+        "img": "Air Jordan 1 Retro High OG Smoke Grey.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Air Jordan 1 MID White Shadow",
+        "precio": 700,
+        "stock": 5,
+        "img": "Air Jordan 1 MID White Shadow.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "SB Dunk Low Club 58 Gulf",
+        "precio": 700,
+        "stock": 5,
+        "img": "SB Dunk Low Club 58 Gulf.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Dunk Low",
+        "precio": 700,
+        "stock": 5,
+        "img": "Dunk Low.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Air Jordan 1 LOW SE Arctic",
+        "precio": 700,
+        "stock": 5,
+        "img": "Air Jordan 1 LOW SE Arctic.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Air Jordan 1 Retro High OG",
+        "precio": 700,
+        "stock": 5,
+        "img": "Air Jordan 1 Retro High OG.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Air Jordan 1 Retro High OG Volt",
+        "precio": 700,
+        "stock": 5,
+        "img": "Air Jordan 1 Retro High OG Volt.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Air Jordan 1 Low",
+        "precio": 700,
+        "stock": 5,
+        "img": "Air Jordan 1 Low.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Air Jordan 1 MID Rose",
+        "precio": 700,
+        "stock": 5,
+        "img": "Air Jordan 1 MID Rose.jpg"
+    }
+]
